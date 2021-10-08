@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\maksy\source\repos\sossu\sossu\Source.cpp(45,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\maksy\source\repos\sossu\sossu\Source.cpp(51,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\maksy\source\repos\sossu\sossu\Source.cpp(52,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Users\maksy\source\repos\sossu\Debug\sossu.exe для записи

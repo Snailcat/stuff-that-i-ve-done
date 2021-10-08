@@ -1,0 +1,234 @@
+body{
+background: url(../Design/1.jpg);
+background-attachment: fixed;
+}
+p {
+	font-family: Marmelad;
+}
+h2{
+	font-size: 36px;
+	
+}
+#main{
+position: absolute;
+left: 15%;
+	margin: -1% 0 0 0;
+	width: 70%;
+	background: rgba(210, 96, 64, 0.64);
+box-shadow: 48px 4px 90px rgba(0, 0, 0, 0.4);
+}
+#main-description{
+	margin: 5%;
+}
+header{
+	display: inline-block;
+	top: 0;
+	
+	width: 100%;
+	border-bottom: 1px solid rgba(249, 135, 104, 0.36);
+transform: rotate(0.13deg);
+}
+.header h1{
+	float: left;
+
+	font-family: Rockwell Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 56px;
+line-height: 10px;
+
+color: #FFE4DD;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	
+	margin-top: -15px;
+	margin-bottom: 50px;
+}
+
+.list li{
+	margin: 0 10px 0 0;
+	top: -15px;
+	position: relative;
+	float: right;
+	display:inline	
+font-size: 14px;
+line-height: 1px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.mini-header{
+	display: inline-block;
+	
+transform: rotate(0.37deg);
+	width: 100%;
+	
+}
+
+li{
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+input{
+	width: 355px;
+height: 41px;
+float: left;
+background: #D26040;
+border-radius: 7px;
+border: none;
+padding: 0 0 0 20px;
+
+margin-top: 15px;
+font-size: 14px;
+line-height: 56px;
+}
+a{
+	color: #000000;
+	padding: 0px;
+	text-decoration: none;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+-webkit-transition: all 0.6s ease;;
+  -moz-transition: all 0.6s ease;;
+  -o-transition: all 0.6s ease;;
+  transition: all 0.6s ease;
+}
+ a:hover{
+	text-decoration: underline;
+	
+	border-radius: 5px;
+	color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+
+                  			/*форма*/
+
+
+
+.delete{
+
+width: 134px;
+height: 41px;
+border: none;
+background: #E85454;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 11px;
+margin: 0 14px 10px 0px;
+font-size: 20px;
+line-height: 1px;
+}
+.correct{
+
+width: 134px;
+height: 41px;
+border: none;
+background: rgba(191, 249, 134, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 11px;
+margin: 0 19px 10px 14px;
+font-size: 20px;
+line-height: 1px;
+}
+
+
+
+
+
+/*-----------------------------------------------*/
+
+
+
+article, aside{
+	
+	box-sizing: border-box;
+margin-top: 0px;
+	float     : left;
+	
+}
+article{
+	width: 70%;
+	
+	padding     : 30px;
+	width: 72%;
+margin-left: 0%;
+margin-right: 3%;
+	clear       : right;
+}
+
+
+
+aside{
+
+	width: 25%;
+	position: static;
+	
+	padding: 44px 0 0 0;
+}
+.main-block{
+	
+	padding: 0 0 16px 0;
+}
+
+.block-news{
+	background: rgba(249, 146, 117, 0.55);
+	padding: 1% 0 0 0;
+}
+.destriction-news{
+	display: inline-block;
+	width: 60%;
+	padding: 0 0 0 4%;
+	font-size: 17px;
+	
+}
+.image-news{
+	display: inline-block;
+}
+.image-news img{
+	width: 280px;
+}
+.sport{
+	background: rgba(249, 146, 117, 0.55);
+padding: 1px 0 77em 31px;
+}
+
+
+
+
+ul{
+	margin-left: 0;
+  /* Отступ слева в браузере IE и Opera */
+  padding-left: 0;
+}
+
+ li{
+	display: inline-block; 
+	margin: 0 0 0 -3%;
+	list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

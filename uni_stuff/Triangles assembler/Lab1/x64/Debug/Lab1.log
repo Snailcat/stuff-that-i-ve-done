@@ -1,0 +1,5 @@
+﻿  Sourcelab1.cpp
+C:\Users\maksy\Downloads\Sourcelab1.cpp(17,47): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maksy\Downloads\Sourcelab1.cpp(17,53): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maksy\Downloads\Sourcelab1.cpp(17,59): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Lab1.vcxproj -> C:\Users\maksy\source\repos\Lab1\x64\Debug\Lab1.exe

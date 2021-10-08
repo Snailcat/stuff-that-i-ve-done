@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\maksy\source\repos\TODD4\TODD4\Source.cpp(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksy\source\repos\TODD4\TODD4\Source.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksy\source\repos\TODD4\TODD4\Source.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maksy\source\repos\TODD4\TODD4\Source.cpp(71,28): warning C4018: <: несоответствие типов со знаком и без знака
+  TODD4.vcxproj -> C:\Users\maksy\source\repos\TODD4\Debug\TODD4.exe

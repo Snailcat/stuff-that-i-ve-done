@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\maksy\source\repos\Lab1\Lab1\Source.cpp(24,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maksy\source\repos\Lab1\Lab1\Source.cpp(44,10): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Lab1.vcxproj -> C:\Users\maksy\source\repos\Lab1\Debug\Lab1.exe
